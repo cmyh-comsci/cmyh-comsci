@@ -21,22 +21,22 @@ i'm using this space to document that process and keep track of the things i've 
 `Object-Oriented Programming` · `Data Structures & Algorithms` · `Web Development` · `Software Design`
 
 ## selected projects
-### 🎨 The Little Atelier
+### The Little Atelier
 A personal portfolio site showcasing coding experiments in Java, Python, and web development.
 
-### 🎓 Academic Peer Review Platform
+### Academic Peer Review Platform
 A console-based Java application applying object-oriented programming concepts to an academic peer review system.
 
-### 🎮 Tiny School Adventure Game
+### Tiny School Adventure Game
 A cozy Java student-life simulation game featuring exploration, relationships, quests, schedules, and everyday school adventures.
 
-### 🔭 Astralens
+### Astralens
 A responsive HTML/CSS landing page for an AR telescope concept combining astronomy and astrology.
 
-### 🐍 Python Quiz Creator
+### Python Quiz Creator
 A Python-based quiz creator for building, customizing, and taking multiple-choice quizzes.
 
-### 🔢 Interactive Sorter
+### Interactive Sorter
 An interactive Python script that generates step-by-step console and file logs for sorting algorithms.
 
 ## currently learning
