@@ -1,4 +1,4 @@
-# cmyh lei
+# cmyh-lei
 > computer science student building things, breaking things, and learning along the way.
 
 ## about me
