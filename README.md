@@ -48,7 +48,7 @@ An interactive Python script that generates step-by-step console and file logs f
 
 ## a little more
 i like turning technical requirements into projects that feel a little more personal.
-whether it's a console application, a tiny game, an experimental webpage, or something that probably started with "wait, what if i tried this?",
+whether it's a console application, a simple game, an experimental webpage, or something that probably started with "wait, what if i tried this?",
 i like having a place where the process is visible.
 
 ---
